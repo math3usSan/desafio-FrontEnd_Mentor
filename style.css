@@ -1,0 +1,26 @@
+@import url(assets/images/icon-memory.svg);
+@import url(assets/images/icon-reaction.svg);
+@import url(assets/images/icon-verbal.svg);
+@import url(assets/images/icon-visual.svg);
+
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url(assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: 'Hanken Grotesk';
+    margin: 0px;
+    padding: 0px;
+}
+
+#result {
+    padding: 30px;
+
+    
+    
+}
+
+#result h4 {
+    color: white;
+}
